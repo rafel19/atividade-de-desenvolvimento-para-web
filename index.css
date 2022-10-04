@@ -1,0 +1,25 @@
+*{
+margin: 0px;
+padding: 0px;
+border: 0px;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    background-color: blue;
+    justify-content: baseline;
+}
+
+img#hero{
+    width: 200px;
+    border-radius: 100%;
+    margin: 5px 90px 5px 90px;
+}
+
+h1#hero{
+    color: antiquewhite;
+    font-size: 100px;
+}
+
+
